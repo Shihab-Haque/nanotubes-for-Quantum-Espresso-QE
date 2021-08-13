@@ -1,6 +1,6 @@
 # Creating Nanotubes using Quantum Espresso
 
-This example shows how to create input files for quantum espresso for nanotubes using WS2 monolayer. Same thing can be done for other monolayers.
+This documentation shows how to create input files for quantum espresso by folding monolayers into nanotubes, using WSe2 monolayer. Same thing can be done for other monolayers(e.g. graphene, TMD materials: MoSe2, MoS2, WS2 etc. Example of calculated band diagrams from these input files are also given
 
 **Download CIF file for WSe2 from Materials Project** (https://materialsproject.org/materials/mp-1821/) 
 
