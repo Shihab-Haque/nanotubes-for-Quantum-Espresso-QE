@@ -55,7 +55,9 @@ For generating a (18,12) chiral nanotube
 
 **calculated E-K Band Diagram:**
 For Zigzag WSe2 Nanotube:
+
 ![](https://github.com/Shihab-Haque/nanotubes-for-Quantum-Espresso-QE/blob/main/wse2_12_0_band.png) 
 
 For Armchair WSe2 Nanotube:
+
 ![](https://github.com/Shihab-Haque/nanotubes-for-Quantum-Espresso-QE/blob/main/wse2_6_6_band.png) 
