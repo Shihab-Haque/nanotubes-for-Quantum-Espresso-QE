@@ -19,7 +19,7 @@ open the *wse2.in* file using xcrysden and save it as XSF structure naming *wse2
  ![](https://github.com/Shihab-Haque/nanotubes-for-Quantum-Espresso-QE/blob/main/WSe2_vesta.png) 
  
  **convert cif file into cell file format**
- open a terminal in the folder you have your *ws2_mono.cif* file and execute the following command
+ open a terminal in the folder you have your *wse2.cif* file and execute the following command
 
 	cif2cell -f wse2.cif -p castep -o wse2.cell
 	
